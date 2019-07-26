@@ -14,10 +14,28 @@ It's a gradual process that can span several years, but the feeling of freedom a
 
 Some useful things you start doing:
 
-1. __Sign up to all new things using your new email.__ Otherwise you just create more work for yourself in the future. Don't use your Gmail address, and skip _Sign in with Google_.
-2. __Set up a password manager__ to collect all your online accounts, new and existing, in one place. (I use, and enjoy, 1Password.)
-3. __Forward all mail__ you get on your Gmail address to your new email address (and optionally have it delete the mails after they've been forwarded)
-4. __Observe the kinds of mail__ you get on Gmail, and make the necessary changes so you'll get them on your new email address the next time around: collect account information in the password manager, unsubscribe from newsletters and re-subscribe with the new email, etc.
+### Sign up to all new things using your new email
+
+If you keep using your Gmail address for things, you just create more work for yourself in the future. Oh, and skip _Sign in with Google_.
+
+### Set up a password manager
+
+Beyond the security hygiene, a password manager lets you collect all your online accounts, new and existing, in one place. This makes it easy to review which of your accounts are still linked to your Gmail address. I use, and enjoy, 1Password for this purpose. 
+
+One sneaky place where you might have account information & passwords lurking is in the browsers themselves. Review all browsers on all devices you normally use, and move all logins to the password manager, then disable the browser feature. 
+
+> In Firefox, you do that by going to <kbd>Preferences > Privacy & Security</kbd> and uncheck _Ask to save logins and passwords for websites_.
+
+
+### Forward all mail...
+
+...you get on your Gmail address to your new email address. Optionally, have it delete the mails after they've been forwarded.
+
+### Observe the kinds of mail you get
+
+Look at what lands in your Gmail inbox and make the necessary changes so you'll get them on your new email address the next time around: collect account information in the password manager, unsubscribe from newsletters and re-subscribe with the new email, etc.
+
+The amount of things you'll get in your Gmail should steadily decline as a result.
 
 ## Notes on specific services
 
