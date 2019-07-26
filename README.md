@@ -12,13 +12,23 @@ It's a gradual process that can span several years, but the feeling of freedom a
 
 ## New habits
 
-Some useful things you can do:
+Some useful things you start doing:
 
-1. __Set up a password manager__ to collect all your online accounts in one place. (I use, and enjoy, 1Password.)
-2. __Forward all mail__ you get on your Gmail address to your new email address (and optionally have it delete the mails after they've been forwarded)
-3. __Observe the kinds of mail__ you get on Gmail, and make the necessary changes so you'll get them on your new email address the next time around: collect account information in the password manager, unsubscribe from newsletters and re-subscribe with the new email, etc.
+1. __Sign up to all new things using your new email.__ Otherwise you just create more work for yourself in the future. Don't use your Gmail address, and skip _Sign in with Google_.
+2. __Set up a password manager__ to collect all your online accounts, new and existing, in one place. (I use, and enjoy, 1Password.)
+3. __Forward all mail__ you get on your Gmail address to your new email address (and optionally have it delete the mails after they've been forwarded)
+4. __Observe the kinds of mail__ you get on Gmail, and make the necessary changes so you'll get them on your new email address the next time around: collect account information in the password manager, unsubscribe from newsletters and re-subscribe with the new email, etc.
 
 ## Notes on specific services
+
+### Signed up with Google
+
+It's easy to skip registration and just sign up with your Google account for things. Luckily, on your [Google Account](https://myaccount.google.com/) page, under <kbd>Security > Signing in to other sites</kbd>, you have a handy list of all websites and apps with which you've used your Google Account. You can go through them one by one and:
+
+* If you don't need the account, delete it;
+* If you still need it, switch to user/password authentication, and update your associated email address in the process.
+
+Then revoke access for the website from the overview page.
 
 ### Git & GitHub
 
