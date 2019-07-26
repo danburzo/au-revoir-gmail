@@ -12,7 +12,7 @@ It's a gradual process that can span several years, but the feeling of freedom a
 
 ## New habits
 
-Some useful things you start doing:
+Some useful things to start doing:
 
 ### Sign up to all new things using your new email
 
