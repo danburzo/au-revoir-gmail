@@ -64,6 +64,8 @@ If you're using GitHub, you'll need to change your primary email address [as des
 
 > Note that it _is_ possible to rewrite Git history to amend the email address retroactively, but it's usually a very bad idea. For the sake of science, [here's how you'd do it](https://help.github.com/en/articles/changing-author-info).
 
+If you also have an npm account for publishing packages, don't forget to update your email there as well.
+
 ### Apple ID
 
 > I'll be attempting to change the email address associated with my Apple ID, and will write down any setbacks.
